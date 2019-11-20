@@ -1,0 +1,7 @@
+{
+  "name": "APPcancer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
